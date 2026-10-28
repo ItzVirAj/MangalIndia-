@@ -1,0 +1,6 @@
+{
+  "name": "Mangal India — Krishna Mohan Exports",
+  "description": "Leading importer of premium fresh and dry fruits from 12 countries and exporter of Indian agricultural produce.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
